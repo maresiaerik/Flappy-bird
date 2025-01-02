@@ -1,0 +1,34 @@
+{
+    "name": "BirdInputActions",
+    "maps": [
+        {
+            "name": "Bird",
+            "id": "a2066b1a-55e1-4065-9857-0f6adc581100",
+            "actions": [
+                {
+                    "name": "FlyUp",
+                    "type": "Button",
+                    "id": "9c2f307e-2383-4c08-81a7-be6ffa641237",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2c044f48-fa43-48fc-b443-1017e3893f17",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FlyUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
